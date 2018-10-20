@@ -71,26 +71,3 @@ been censused over 35 years. We will fit the model to some selected tree
 species, including B. pendula, O. whitei and P. panamense.
 The considered location related factors including elevation, slope and 13 soil
 characteristics. 
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
